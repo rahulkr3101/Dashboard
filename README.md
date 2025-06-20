@@ -46,7 +46,7 @@ The goal of this project is to analyze traffic accident data and identify key tr
 
   Included columns
 
-  ![image](http://github.com/rahulkr3101/Dashboard/blob/main/image/2.png)
+  ![image](https://github.com/rahulkr3101/Dashboard/blob/main/image/2.png)
 
 ### 5. Data Analysis (using pivot tables and of course excel formulas)
 
