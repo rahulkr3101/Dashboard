@@ -46,7 +46,7 @@ The goal of this project is to analyze traffic accident data and identify key tr
 
   Included columns
 
-  ![image](https://github.com/SankalpGautam/Road_Safety_Dashboard/blob/main/Images/2.png)
+  ![image](http://github.com/rahulkr3101/Dashboard/blob/main/image/2.png)
 
 ### 5. Data Analysis (using pivot tables and of course excel formulas)
 
@@ -54,7 +54,7 @@ The goal of this project is to analyze traffic accident data and identify key tr
 
   Data Analysis Sheet
 
-  ![image](https://github.com/SankalpGautam/Road_Safety_Dashboard/blob/main/Images/3.png)
+  ![image](https://github.com/rahulkr3101/Dashboard/blob/main/image/3.png)
 
 ### 6. Data Visualisation (using charts to show insights)
 
@@ -62,13 +62,13 @@ The goal of this project is to analyze traffic accident data and identify key tr
 
   Pivot Tables and Pivot Charts
 
-  ![image](https://github.com/SankalpGautam/Road_Safety_Dashboard/blob/main/Images/4.png)
+  ![image](https://github.com/rahulkr3101/Dashboard/blob/main/image/4.png)
 
 ### 7. Creation of a dynamic and interactive dashboard
 
   The dashboard became interactive and dynamic by creating a filter panel using a timeline and slicer as already created in the pivot table. The dashboard also has link       which leads to the dashboard, my email, this GitHub repository, and the Data Analysis Sheet directly and vice versa
 
-  ![image](https://github.com/SankalpGautam/Road_Safety_Dashboard/blob/main/Images/5.png)
+  ![image](https://github.com/rahulkr3101/Dashboard/blob/main/image/Screenshot%20(74).png)
 
 
 
